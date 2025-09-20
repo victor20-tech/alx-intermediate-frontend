@@ -8,4 +8,4 @@ Ensure you have Node.js and npm available in your terminal.
 
 2. Install Anywhere (npm)
 Run the npm command to install:
-" npm install -g sass "
+npm install -g sass
