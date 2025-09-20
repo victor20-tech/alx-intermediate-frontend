@@ -6,6 +6,6 @@ Ensure you have Node.js and npm available in your terminal.
  -node -v
  -npm -v
 
-2. Install SASS:
-Run the npm command to install the SASS compiler version 3.7.4.
-npm install sass -v 3.7.4
+2. Install Anywhere (npm)
+Run the npm command to install:
+" npm install -g sass "
